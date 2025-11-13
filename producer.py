@@ -20,7 +20,7 @@ def delivery_report(err, msg):
 order = {
     "order_id": str(uuid.uuid4()),
     "user": "ovanse",
-    "item": "mushroom pizza",
+    "item": "pepperoni pizza",
     "quantity": 2
 }
 
